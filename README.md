@@ -1,4 +1,6 @@
 
+https://github.com/user-attachments/assets/22fb68b2-b680-4158-a75c-709078a1c4ef
+
 # Food Choices Analysis using Python
 
 This notebook performs an exploratory data analysis (EDA) on a food choices dataset, featuring the following steps:
